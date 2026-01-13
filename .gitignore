@@ -37,5 +37,8 @@ out/
 /nbdist/
 /.nb-gradle/
 
+**/.env.secret
+.github/secret.sh
+
 ### VS Code ###
 .vscode/
